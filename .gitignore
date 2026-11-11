@@ -1,0 +1,17 @@
+ConsoleApp/.vs/ConsoleApp.slnx/v18/.suo
+ConsoleApp/.vs/ConsoleApp.slnx/v18/DocumentLayout.json
+ConsoleApp/ConsoleApp.slnx
+ConsoleApp/ConsoleApp/App.config
+ConsoleApp/ConsoleApp/ConsoleApp.csproj
+ConsoleApp/ConsoleApp/obj/Debug/.NETFramework,Version=v4.7.2.AssemblyAttributes.cs
+ConsoleApp/ConsoleApp/obj/Debug/ConsoleApp.csproj.AssemblyReference.cache
+ConsoleApp/ConsoleApp/obj/Debug/DesignTimeResolveAssemblyReferencesInput.cache
+ConsoleApp/ConsoleApp/Properties/AssemblyInfo.cs
+ConsoleApp/.vs/ConsoleApp.slnx/FileContentIndex/efb786e4-23e5-4188-9ba5-d02091e912b5.vsidx
+*.exe
+*.pdb
+*.config
+*.json
+*.cache
+*.vsidx
+*.txt
